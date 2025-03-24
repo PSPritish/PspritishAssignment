@@ -83,7 +83,7 @@ Each file contains a self-contained script for extracting names from the corresp
 1. **Clone the repository:**
 
    ```bash
-   git clone [github link](https://github.com/PSPritish/PspritishAssignment.git)
+   git clone https://github.com/PSPritish/PspritishAssignment.git
    cd pspritishAssignment
    ```
 
